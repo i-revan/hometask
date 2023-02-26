@@ -1,0 +1,15 @@
+C:\Users\Revan\Desktop\Average of max and min\Average of max and min\bin\Debug\net6.0\Average of max and min.exe
+C:\Users\Revan\Desktop\Average of max and min\Average of max and min\bin\Debug\net6.0\Average of max and min.deps.json
+C:\Users\Revan\Desktop\Average of max and min\Average of max and min\bin\Debug\net6.0\Average of max and min.runtimeconfig.json
+C:\Users\Revan\Desktop\Average of max and min\Average of max and min\bin\Debug\net6.0\Average of max and min.dll
+C:\Users\Revan\Desktop\Average of max and min\Average of max and min\bin\Debug\net6.0\Average of max and min.pdb
+C:\Users\Revan\Desktop\Average of max and min\Average of max and min\obj\Debug\net6.0\Average of max and min.csproj.AssemblyReference.cache
+C:\Users\Revan\Desktop\Average of max and min\Average of max and min\obj\Debug\net6.0\Average of max and min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Revan\Desktop\Average of max and min\Average of max and min\obj\Debug\net6.0\Average of max and min.AssemblyInfoInputs.cache
+C:\Users\Revan\Desktop\Average of max and min\Average of max and min\obj\Debug\net6.0\Average of max and min.AssemblyInfo.cs
+C:\Users\Revan\Desktop\Average of max and min\Average of max and min\obj\Debug\net6.0\Average of max and min.csproj.CoreCompileInputs.cache
+C:\Users\Revan\Desktop\Average of max and min\Average of max and min\obj\Debug\net6.0\Average of max and min.dll
+C:\Users\Revan\Desktop\Average of max and min\Average of max and min\obj\Debug\net6.0\refint\Average of max and min.dll
+C:\Users\Revan\Desktop\Average of max and min\Average of max and min\obj\Debug\net6.0\Average of max and min.pdb
+C:\Users\Revan\Desktop\Average of max and min\Average of max and min\obj\Debug\net6.0\Average of max and min.genruntimeconfig.cache
+C:\Users\Revan\Desktop\Average of max and min\Average of max and min\obj\Debug\net6.0\ref\Average of max and min.dll
